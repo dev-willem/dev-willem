@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-willem
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascrit, node.js, java and python
+- 🌱 I’m currently learning Java and Spring MVC
 - 💞️ I’m looking to collaborate on back-end web projects 
 - 📫 How to reach me ...
 
